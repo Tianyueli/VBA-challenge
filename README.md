@@ -17,6 +17,6 @@ Mod 2 Challenge
     * This analysis pinpointed the stocks with the greatest increase and the greatest decrease within year 2018, 2019 and 2020. In addition, it highlighted the specific stocks generating the most transaction volume in each year.
        * For example, in year 2020, the stock with the highest growth was Ticker YDI. It increased 188.76% in value and indicates high profitability.
        * Ticker QKN reached the highest total transaction volume among all stocks in year 2020, which could indicate high liquidity and a high interest from buyers competing for this asset.
-* Finding Limitation:
+* Finding Limitations:
     * For the purpose of the assignment, findings are targeted to track the yearly open / close pricing change between the beginning of the year to the end of the year.
     * It could provide additional valuable insight if we also analyzed the annual pricing variance between the highest and lowest pricing points for each stock.
