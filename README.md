@@ -1,9 +1,9 @@
 # VBA-challenge
 Mod 2 Challenge
 
-* Context: This stock market dataset contains a list of stocks and their corresponding  transaction pricing and volume changes on a daily basis.
-* Hypothesis: The primary goal of this analysis was to identify the stock worth investing in.
-* Solution: I used VBA scripting to analyze the stock market changes at individual stock level.
+* Context: This stock market dataset contains an extensive list of stocks and their corresponding  transaction pricing and volume changes on a daily basis.
+* Objective: The primary goal of this analysis was to identify the stock worth investing in.
+* Solution: I used the VBA scripting to analyze the stock market trend at individual stock level by tracking stocks' performance and price changes.
 
 * Findings
     * 2018 summary
