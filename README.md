@@ -18,5 +18,5 @@ Mod 2 Challenge
        * For example, in year 2020, the stock with the highest growth was Ticker YDI. It increased 188.76% in value and indicates high profitability.
        * Ticker QKN reached the highest total transaction volume among all stocks in year 2020, which could indicate high liquidity and a high interest from buyers competing for this asset.
 * Finding Limitation:
-       * For the purpose of the assignment, findings are targeted to track the yearly open / close pricing change between the beginning of the year to the end of the year.
-       * It could provide additional valuable insight if we also analyzed the annual pricing variance between the highest and lowest pricing points for each stock.
+    * For the purpose of the assignment, findings are targeted to track the yearly open / close pricing change between the beginning of the year to the end of the year.
+    * It could provide additional valuable insight if we also analyzed the annual pricing variance between the highest and lowest pricing points for each stock.
