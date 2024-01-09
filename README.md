@@ -21,4 +21,4 @@ Mod 2 Challenge
     * For the purpose of the assignment, findings are targeted to track the yearly open / close pricing change between the beginning of the year to the end of the year.
     * It could provide additional valuable insight if we also analyzed the annual pricing variance between the highest and lowest pricing points for each stock.
 * Citation:
-    * When troubleshooting to allow my code to run on all sheets successfully, our TA Randy helped point out I was missing a "wa.Activate" syntax within the For Each loop.
+    * When troubleshooting to allow my code to run on all sheets successfully, our TA Randy helped point out I was missing a "ws.Activate" syntax within the For Each loop.
